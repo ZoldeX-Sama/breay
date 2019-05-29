@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= t
-game= !thelp
+token=NTgzMzg2ODM4MTgyMzk1OTA4.XO7nng.gD7B-LVC9uRNfgNk7EI9T0rHgQo 
+owner=530914058526916611 
+prefix= Br
+game= Brplay
 stayinchannel=true
 songinstatus=true 
